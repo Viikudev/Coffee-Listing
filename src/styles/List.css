@@ -1,0 +1,12 @@
+.coffe-card-list {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 4rem;
+}
+
+/* .coffe-card-list::after {
+  content: '';
+  flex: 1;
+} */

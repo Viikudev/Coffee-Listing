@@ -1,0 +1,33 @@
+.main {
+  background-image: url('/vector.svg');
+  background-repeat: no-repeat;
+  background-position-x: 200%;
+  background-position-y: 2rem;
+  background-color: #1b1d1f;
+  color: white;
+  padding: 4rem 2rem;
+  margin: 5rem 10rem;
+  border-radius: 1rem;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.header {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
+}
+
+.radio {
+  padding-bottom: 2rem;
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+}
+
+.vector {
+  position: absolute;
+}

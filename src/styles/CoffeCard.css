@@ -1,0 +1,67 @@
+.coffee-card {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.image {
+  position: relative;
+  border-radius: 1rem;
+}
+
+.popular {
+  margin: 0.75rem;
+  padding: 0.25rem 0.75rem;
+  background-color: #f6c768;
+  color: #111315;
+  font-size: 0.625rem;
+  font-weight: bold;
+  border-radius: 1rem;
+  position: absolute;
+  z-index: 1;
+}
+
+.coffe-name {
+  color: #fef7ee;
+}
+
+.preferences {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+}
+
+.rating-votes {
+  display: flex;
+  align-items: center;
+  gap: 0.25rem;
+}
+
+span {
+  color: #6f757c;
+}
+
+.price {
+  font-size: 0.75rem;
+  font-weight: bold;
+  padding: 0.25rem 0.5rem;
+  background-color: #bee3cc;
+  color: #111315;
+  border-radius: 0.25rem;
+}
+
+.sold-out {
+  font-size: 1rem;
+  color: #ed735d;
+}
+
+.name-price {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.no-rating {
+  color: #6f757c;
+  font-weight: bold;
+}

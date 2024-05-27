@@ -1,0 +1,23 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'DM Sans', sans-serif;
+}
+
+body {
+  background-color: #111315;
+  background-image: url('./../assets/bg-cafe.jpg');
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+#root {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+/* @media screen and (width >= 640px) and (width <= 1024px) {
+
+} */
