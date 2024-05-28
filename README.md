@@ -1,21 +1,22 @@
-# Guess the word
+# Coffee Listing
 
 ## Live Example
 - [LINK-to-coffee-listing](https://victoresamuel.github.io/Coffee-Listing/)
 
 ## Description 📑
 
-A game created with HTML, CSS, Typescript and ReactJS. This project is a landing page that shows a coffee list of a cafe. The client can select if he want to see the entire list or just tha available ones.
+A project created with HTML, CSS, Typescript and ReactJS. A responsive landing page of a cafe that shows a list of coffees, the client can switch between of a the entire list of coffees or only the available ones
 
 ## What I learned with this project? 🙇🏻 
 
-I learned a lot of the logical programming, how to use the browser to find information to solve problems and the basics of Javascript (DOM manipulation, closures, events, asyncronous programming, API use, etc)
+I learned a lot of ReactJS and Typescript, things like build reusable components and the state management; and how Typescript manage the types of the variables  
 
 ## Technologies 🛠
 <!-- Iconos sacados de: https://github.com/hendrasob/badges/blob/master/README.md y https://github.com/alexandresanlim/Badges4-README.md-Profile -->
-[![HTML](https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png)
-[![CSS](https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png)
-[![JS](https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png)](https://es.wikipedia.org/wiki/JavaScript)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ## Author ✒️
 **Victor Samuel**
