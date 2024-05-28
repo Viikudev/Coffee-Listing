@@ -1,30 +1,30 @@
-# React + TypeScript + Vite
+# Guess the word
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Live Example
+- [LINK-to-coffee-listing](https://victoresamuel.github.io/Coffee-Listing/)
 
-Currently, two official plugins are available:
+## Description 📑
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+A game created with HTML, CSS, Typescript and ReactJS. This project is a landing page that shows a coffee list of a cafe. The client can select if he want to see the entire list or just tha available ones.
 
-## Expanding the ESLint configuration
+## What I learned with this project? 🙇🏻 
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+I learned a lot of the logical programming, how to use the browser to find information to solve problems and the basics of Javascript (DOM manipulation, closures, events, asyncronous programming, API use, etc)
 
-- Configure the top-level `parserOptions` property like this:
+## Technologies 🛠
+<!-- Iconos sacados de: https://github.com/hendrasob/badges/blob/master/README.md y https://github.com/alexandresanlim/Badges4-README.md-Profile -->
+[![HTML](https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png)
+[![CSS](https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png)
+[![JS](https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png)](https://es.wikipedia.org/wiki/JavaScript)
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
+## Author ✒️
+**Victor Samuel**
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+* [victoress18@gmail.com](victoress18@gmail.com)
+* [LinkedIn](www.linkedin.com/in/victoresamuel)
+
+## Instalation
+
+* Node.js is needed to run this project locally, you can domnload it [here](https://nodejs.org/en)
+* Go to the root of the project and execute the command in the terminal "npm install"
+* Execute the command "npm run dev" and open the link in the browser.
