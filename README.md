@@ -1,7 +1,7 @@
 # Coffee Listing
 
 ## Live Example
-- [LINK-to-coffee-listing](https://victoresamuel.github.io/Coffee-Listing/)
+- [LINK-to-coffee-listing](https://viikudev.github.io/Coffee-Listing/)
 
 ## Description 📑
 
